@@ -1,15 +1,9 @@
 # Learning Objectives
 
-Each module needs to have learning objectives, a list of 3 to 5 expected new skills or behaviors for the learners who complete the module.
+1. Explain the benefits and challenges that producing open software encompasses.
+2. Be able to identify resources for Open Software relevant for a scientific field.
+3. Identify key markers of open software in code
+4. How to cite others’ software in publications
+5. Differentiate open, reproducible, and executable code
+6. Publish software openly so others may access, use, and grow the software
 
-For example, the module on Ethos of Open Science can have as one learning objective:
-
-- Communicate and interpret the benefits and barriers of Open Science both individually and for community
-
-Here, the verbs "communicate" and "interpret" represent new capacities that learners gain from experiencing the module through its content and activities.
-
-Some people like to use the so-called [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria) to guide drafting of learning objectives.
-It is a mnemonic for *specific*, *measurable*, *achievable*, *relevant*, and *time-bound*.
-Most important is to focus on the learners (not the content): what will they be able to do differently after completing the module?
-
-Use this Markdown file replacing this guidance with your learning objectives.
