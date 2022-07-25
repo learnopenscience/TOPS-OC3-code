@@ -1,4 +1,4 @@
-# TOPS Core Curriculum Module 1: Ethos of Open Science
+# TOPS Core Curriculum Module 3: Open Software 
 
 Have you ever marveled at mesmerizing scientific visualizations and wondered 
 how they were generated and whether you can recreate them or maybe tweak 
