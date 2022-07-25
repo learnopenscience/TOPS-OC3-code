@@ -1,19 +1,42 @@
 # TOPS Core Curriculum Module 1: Ethos of Open Science
 
-The module's introductory content goes here. Replace this template text by a short description of the context and content of the module, and welcome learners to the experience. Add any guidance you think learners need to navigate the content. 
+Have you ever marveled at mesmerizing scientific visualizations and wondered 
+how they were generated and whether you can recreate them or maybe tweak 
+them to produce new results? These types of images have been created by 
+researchers using **research software**. These software products and sometimes 
+their **source codes** are freely available to the public. 
+Reproducing such results and using them to advance the knowledge 
+produced by software products are among the pillars of open science. 
+For example, Figure 1, is generated using E3SM, an Earth System model, 
+the source code of which is available on GitHub.
 
-The content of the module is built from a collection of Markdown files (`.md`). You can also use Jupyter notebooks (`.ipynb`) if you wish.
-The structure of the module is set by listing the files in order in the `_toc.yml` file, under the `chapters` heading. You can follow the example provided by this template and edit the file list as the content develops.
+|![E3SM](https://i.imgur.com/zIdfW3i.jpg)|
+|--|
+|Figure 1. Global E3SM simulation showing eddy activity, credits M. Petersen, P. Wolfram and T. Ringler|
 
+Now, let’s say that you are intrigued by the idea of recreating Figure 1 
+and tweaking the E3SM’s source code. We should start with obtaining the 
+source code. Someone might ask since this project already has a fancy 
+website why is the source code on GitHub? Let’s assume that we successfully 
+got the source code and want to start recreating the figure. 
+Naturally, the next question is how do we install it since there is no 
+executable file in the source code? Maybe you are used to installing software 
+packages using installation wizards, or maybe you are comfortable with 
+working from command line. Which one is possible or preferable for installing 
+this software? The next step after installation is running the software 
+and visualizing the results. So, the question is, for generating the desired 
+outputs, how do we configure the software, what are the required input data,
+and how do we get them? Let’s take it a step further and say that you have 
+some brilliant new ideas and want to implement in the source code, analyze 
+the outputs, publish the results, and make your code publicly available. 
+Therefore, the questions become: How do we facilitate navigating this 
+seemingly complicated source code? After making modifications, are we allowed 
+to share and republish the modified source code, and if so, how do go 
+about it? How do we ensure that the republished code is findable and other 
+researchers can reuse and build upon it?
 
-The `intro.md` file (this file) is the "root" of the module content, with the rest of the content written as separate files, e.g., one file per lesson (or section). Use a top-level heading (starting with one `#`) at the start of each file. Add subsections using `##` and `###` in the lesson files, but not in this `intro.md` file.
+The purpose of this module is to answer these questions, provide guidance 
+for streamlining the workflow and ensuring that we give/get proper credits, 
+and last but not least, draw your attention to and promote the importance 
+of contributing and giving back to the Open Science community.
 
-A table of contents will be added automatically using the directive:
-
-````
-```{tableofcontents}
-```
-````
-
-```{tableofcontents}
-```
